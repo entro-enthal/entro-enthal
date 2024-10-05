@@ -3,7 +3,3 @@
     <img src="https://komarev.com/ghpvc/?username=entro-enthal&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 </div>
-
-You can find me on [![Twitter][1.2]][1].
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: https://x.com/Entro_Enthal
